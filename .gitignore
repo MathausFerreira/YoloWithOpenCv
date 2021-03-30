@@ -4,4 +4,4 @@
 videos/
 output/
 venv/
-.weights
+*.weights
